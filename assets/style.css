@@ -183,7 +183,7 @@ footer {
 .logo-twitter-hover {
     opacity: 0;
     position: relative;
-    left: 748px;
+    left: 744px;
 }
 .logo-twitter:hover {
     opacity: 0;
@@ -194,7 +194,7 @@ footer {
 .logo-google {
     opacity: 100;
     position: relative;
-    left: 750px;
+    left: 745px;
 }
 .logo-google:hover {
     opacity: 0;
@@ -204,7 +204,7 @@ footer {
 .logo-google-hover {
     opacity: 0;
     position: relative;
-    left: 718px;
+    left: 710px;
 }
 .logo-google-hover:hover {
     opacity: 1;
